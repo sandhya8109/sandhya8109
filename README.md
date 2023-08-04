@@ -12,13 +12,13 @@
    <a herf="https://www.instagram.com/8109_sandy/" target="_blank"> [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/8109_sandy/)</a>
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=sandhya8109&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=sandhya8109&theme=monokai)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandhya8109&theme=merko&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandhya8109&theme=monokai&hide_progress=true)
 
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandhya8109&theme=merko&show_icons=true)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandhya8109&theme=monokai&show_icons=true)
 
 
 Language & Tool:  
@@ -26,4 +26,4 @@ Language & Tool:
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,jquery,c,cs,cpp,java,dotnet,php,laravel,git,github,linux,mysql,vscode,)]()
 
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sandhya8109&theme=merko)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sandhya8109&theme=monokai)](https://git.io/streak-stats)
