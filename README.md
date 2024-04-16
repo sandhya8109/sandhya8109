@@ -1,15 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=sandhya8109&color=brightgreen)
 - 👋 Hi, I’m <b><i>Sandhya Rimal</b></i>
-- 👀 I’m interested in Web Development, UI/UX Design, Digital Marketing  
+- 👀 I’m interested in Web Development and software deelopment.  
 - 🌱 I’m currently working as a full-stack developer.
-- 💬  Ask me about Web Development and UI/UX 
 - 🤝 How to reach me <i>sandyrimal07@gmail.com</i>
-- 💓 I like swimming, baseball, basketball, football and reading story book.
-- 🙂 Fun fact: <i>The term "404 Error" comes from an unexpected source - a room number!</i>
-- 👍 Themes: Believe in yourself.
 - 🔍Find me on
 
-   <a herf="https://www.instagram.com/8109_sandy/" target="_blank"> [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/8109_sandy/)</a>
+   <a herf="https://www.linkedin.com/in/sandhya-rimal-7470601b7/" target="_blank"> [![My Skills](https://skillicons.dev/icons?i=linkedln)]([https://www.instagram.com/8109_sandy/](https://www.linkedin.com/in/sandhya-rimal-7470601b7/))</a>
 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=sandhya8109&theme=monokai)
