@@ -5,7 +5,7 @@
 - 🤝 How to reach me <i>sandyrimal07@gmail.com</i>
 - 🔍Find me on
 
-   <a herf="https://www.linkedin.com/in/sandhya-rimal-7470601b7/" target="_blank"> [![My Skills](https://skillicons.dev/icons?i=linkedln)](https://www.linkedin.com/in/sandhya-rimal-7470601b7/))</a>
+   <a herf="https://www.linkedin.com/in/sandhya-rimal-7470601b7/" target="_blank"> [![My Skills](https://skillicons.dev/icons?i=linkedln)](https://www.linkedin.com/in/sandhya-rimal-7470601b7/)</a>
 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=sandhya8109&theme=monokai)
