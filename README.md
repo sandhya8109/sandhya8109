@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=sandhya8109&color=brightgreen)
 - 👋 Hi, I’m <b><i>Sandhya Rimal</b></i>
-- 👀 I’m interested in Web Development and software deelopment.  
+- 👀 I’m interested in Web Development and software development.  
 - 🌱 I’m currently working as a full-stack developer.
 - 🤝 How to reach me <i>sandyrimal07@gmail.com</i>
 - 🔍Find me on linkedln : https://www.linkedin.com/in/sandhya-rimal-7470601b7/
