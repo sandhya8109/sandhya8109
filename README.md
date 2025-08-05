@@ -18,7 +18,7 @@
 
 Language & Tool:  
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,c,powerBi,c++,java,php,laravel,git,github,linux,mysql,vscode,)]()
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,python,react,c,java,php,laravel,git,github,linux,mysql,vscode,figma)]()
 
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sandhya8109&theme=monokai)](https://git.io/streak-stats)
